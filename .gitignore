@@ -1,0 +1,8 @@
+.env
+.env.*
+*.pem
+*.key
+*.log
+wp-config.php
+credentials.json
+secrets.json
